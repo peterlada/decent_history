@@ -1,0 +1,346 @@
+clock 1581018590
+espresso_elapsed {0.0 0.012 0.19 0.442 0.64 0.84 1.04 1.24 1.44 1.69 1.89 2.091 2.291 2.492 2.691 2.94 3.14 3.34 3.54 3.74 3.939 4.191 4.39 4.59 4.791 4.991 5.19 5.439 5.64 5.84 6.039 6.241 6.441 6.692 6.939 7.09 7.291 7.491 7.691 7.942 8.142 8.342 8.541 8.746 8.941 9.242 9.391 9.592 9.791 9.995 10.191 10.54 10.64 10.84 11.041 11.24 11.441 11.691 11.892 12.091 12.291 12.491 12.691 12.99 13.141 13.341 13.54 13.742 13.941 14.192 14.391 14.59 14.791 14.992 15.191 15.442 15.648 15.84 16.043 16.24 16.44 16.692 16.941 17.091 17.291 17.492 17.694 17.944 18.242 18.347 18.54 18.743 18.941 19.192 19.393 19.592 19.791 19.99 20.19 20.44 20.64}
+espresso_pressure {0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.01 0.03 0.07 0.11 0.14 0.19 0.24 0.29 0.36 0.42 0.49 0.57 0.68 0.82 1.01 1.29 1.59 2.11 2.84 4.0 5.33 5.6 5.41 5.34 5.62 5.5 5.64 5.71 5.8 5.79 5.84 5.95 5.88 5.99 5.89 6.03 5.97 5.94 6.1 5.91 6.08 6.04 5.86 6.14 6.06 5.91 6.16 5.93 6.0 6.05 5.89 6.08 5.97 6.08 5.95 6.02 5.99 6.02 6.02 6.09 5.96 5.95 5.89 5.91 5.96 6.0 5.94 5.97 6.01 5.99 6.02 6.0 5.95 6.06 5.98 6.02 6.02 6.05 5.98 6.06 6.0 6.02 6.04 6.02 6.02 6.01 6.02 6.04 6.02 6.03 6.01 6.03}
+espresso_weight {0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.01 0.01 0.01 0.01}
+espresso_flow {0.0 1.94 2.47 2.98 3.26 3.46 3.64 3.78 3.78 3.91 3.92 3.94 3.94 3.99 4.04 4.05 4.06 4.06 4.05 4.03 3.97 4.0 3.98 3.95 3.98 3.92 3.92 3.9 3.8 3.24 2.65 2.16 1.92 1.58 1.42 1.24 1.15 1.01 0.97 0.93 0.84 0.83 0.78 0.81 0.76 0.73 0.78 0.7 0.74 0.71 0.68 0.74 0.71 0.65 0.73 0.65 0.69 0.7 0.69 0.75 0.7 0.76 0.71 0.75 0.71 0.75 0.72 0.73 0.7 0.73 0.74 0.81 0.9 0.93 0.93 0.98 1.01 1.03 1.07 1.07 1.04 1.07 1.05 1.06 1.07 1.08 1.07 1.1 1.04 1.05 1.03 1.04 1.02 1.03 1.02 1.06 1.03 1.03 1.01 1.03 1.02}
+espresso_flow_weight {0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.05 0.05 0.05 0.0}
+espresso_flow_weight_raw {0.0 0.0 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.25 0.05 0.0 -0.5}
+espresso_temperature_basket {94.0 92.96 93.03 92.88 92.81 92.77 92.75 92.7 92.62 92.51 92.51 92.51 92.53 92.48 92.55 92.54 92.56 92.59 92.56 92.7 92.73 92.79 92.84 92.93 93.0 93.06 93.08 93.2 93.25 93.28 93.36 93.45 93.39 93.41 93.52 93.53 93.55 93.56 93.59 93.63 93.6 93.55 93.6 93.6 93.59 93.57 93.61 93.56 93.55 93.53 93.57 93.6 93.6 93.59 93.63 93.59 93.6 93.58 93.58 93.59 93.6 93.61 93.6 93.55 93.59 93.67 93.61 93.57 93.54 93.61 93.61 93.6 93.62 93.63 93.63 93.57 93.59 93.59 93.6 93.6 93.68 93.62 93.55 93.57 93.58 93.58 93.53 93.53 93.62 93.6 93.57 93.52 93.59 93.61 93.58 93.63 93.6 93.59 93.59 93.58 93.64}
+espresso_temperature_mix {94.0 93.27 93.3 93.24 92.77 92.77 92.74 92.71 92.91 92.91 93.11 93.24 93.37 93.87 94.07 94.37 94.5 94.71 94.74 94.64 94.54 94.27 94.1 93.7 93.6 93.34 93.11 93.07 93.2 93.24 93.37 93.34 93.27 93.27 93.5 93.37 93.54 93.34 93.5 93.44 93.4 93.4 93.37 93.5 93.4 93.44 93.4 93.37 93.34 93.4 93.34 93.4 93.27 93.37 93.3 93.27 93.24 93.37 93.14 93.17 93.27 93.24 93.11 93.17 93.2 93.17 93.07 93.07 93.14 93.14 93.24 93.17 93.17 93.3 93.27 93.34 93.34 93.47 93.47 93.6 93.57 93.73 93.77 93.8 93.84 93.94 93.97 94.1 94.27 94.27 94.4 94.37 94.44 94.54 94.71 94.67 94.71 94.67 94.8 94.84 94.84}
+espresso_water_dispensed {0.0 0.048583984375 0.110321044921875 0.184747314453125 0.266156005859375 0.3527587890625 0.443878173828125 0.53836669921875 0.6329284667968751 0.73074951171875 0.82886962890625 0.9274841308593751 1.0260009765625 1.125872802734375 1.226800537109375 1.3280212402343752 1.4295227050781252 1.530908203125 1.632080078125 1.7327453613281252 1.832000732421875 1.932037353515625 2.0316284179687503 2.1304748535156253 2.2299621582031253 2.32803955078125 2.426141357421875 2.5235717773437503 2.6185058593750004 2.699432373046875 2.76558837890625 2.8196228027343753 2.867706298828125 2.9072387695312503 2.9428222656250003 2.973876953125 3.00252685546875 3.027740478515625 3.05211181640625 3.0752929687500004 3.09619140625 3.116900634765625 3.136444091796875 3.1568054199218754 3.1758239746093753 3.1940979003906254 3.21356201171875 3.2310913085937503 3.249566650390625 3.267388916015625 3.284442138671875 3.302996826171875 3.32078857421875 3.337030029296875 3.355224609375 3.37158203125 3.388934326171875 3.4064453125000003 3.423724365234375 3.4424499511718754 3.459930419921875 3.4790466308593753 3.4968078613281253 3.5154785156250004 3.5332458496093753 3.5518920898437503 3.569793701171875 3.588128662109375 3.605645751953125 3.624017333984375 3.642413330078125 3.66270751953125 3.6851013183593753 3.708404541015625 3.731591796875 3.7559875488281254 3.7813476562500004 3.807220458984375 3.833941650390625 3.8606933593750004 3.8867553710937504 3.913629150390625 3.939898681640625 3.966455078125 3.993316650390625 4.02032470703125 4.04703369140625 4.0744140625 4.100384521484375 4.1266357421875 4.152435302734375 4.1784606933593755 4.20404052734375 4.2296997070312505 4.255267333984375 4.28173828125 4.307598876953125 4.3334289550781255 4.358770751953125 4.38446044921875 4.40994873046875}
+espresso_pressure_goal {-1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 4.9375 5.3125 5.5625 5.75 5.8125 5.875 5.9375 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0 6.0}
+espresso_flow_goal {-1.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 4.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0 -1.0}
+espresso_temperature_goal {94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0 94.0}
+settings {
+	accelerometer_angle 45
+	active_settings_tab settings_2a
+	advanced_shot {{exit_if 1 flow 4 volume 100 transition fast exit_flow_under 0 temperature 98.0 name preinfusion pressure 1 sensor coffee pump flow exit_type pressure_over exit_flow_over 6 exit_pressure_over 4 exit_pressure_under 0 seconds 25.0} {exit_if 0 flow 0 volume 100 transition fast exit_flow_under 0 temperature 90.0 name pause pressure 6.0 sensor coffee pump flow exit_flow_over 6 exit_pressure_over 11 exit_pressure_under 0 seconds 30.0} {exit_if 0 flow 2.2 volume 100 transition smooth exit_flow_under 0 temperature 92.0 name ramp pressure 4.0 sensor coffee pump flow exit_flow_over 6 exit_pressure_over 11 exit_pressure_under 0 seconds 5.0} {exit_if 0 flow 2.2 volume 100 transition fast exit_flow_under 0 temperature 92.0 name {flat flow} pressure 4.0 sensor coffee pump flow exit_flow_over 6 exit_pressure_over 11 seconds 20.0 exit_pressure_under 0} {exit_if 0 flow 0.0 volume 100 transition fast exit_flow_under 0 temperature 98.0 name {reset temperature} pressure 4.0 sensor coffee pump flow exit_flow_over 6 exit_pressure_over 11 seconds 1.0 exit_pressure_under 0}}
+	advanced_shot_chart_temp_max 100
+	advanced_shot_chart_temp_min 80
+	allow_unheated_water 1
+	app_brightness 90
+	author Decent
+	automatically_ble_reconnect_forever_to_scale 0
+	battery_low_brightness 50
+	battery_low_trigger 60
+	battery_medium_brightness 70
+	battery_medium_trigger 90
+	battery_very_low_brightness 10
+	battery_very_low_trigger 30
+	bean_brand Craft
+	bean_notes {Citrus, stone fruit, raisin}
+	bean_type {Thurungi Kenya}
+	ble_unpair_at_exit 1
+	bluetooth_address C6:48:63:61:64:70
+	chart_dashes_espresso_weight {2 1}
+	chart_dashes_flow {}
+	chart_dashes_pressure {}
+	chart_dashes_temperature {}
+	chart_total_shot_flow 1
+	chart_total_shot_weight 1
+	color_stage_1 {#c8e7d5}
+	color_stage_2 {#efdec2}
+	color_stage_3 {#edceca}
+	current_frame_description ending
+	debuglog_window_size 35
+	default_font_calibration 0.5
+	display_connected_msg_seconds 5
+	display_espresso_water_delta_number 1
+	display_espresso_water_temp_difference 0
+	display_flow_delta_line 0
+	display_fluid_ounces_option 0
+	display_group_head_delta_number 0
+	display_pressure_delta_line 0
+	display_rate_espresso 1
+	display_volumetric_usage 0
+	display_weight_delta_line 0
+	drink_ey 0
+	drink_tds 0
+	drink_weight 0.0
+	dsv2_bean_weight -167.4
+	dsv3_bean_weight 25.0
+	dsv3_jug_size M
+	dsv3_next_e flush
+	dsv3_next_f espresso
+	dsv3_next_s steam
+	dsv3_next_w water
+	dsv4_max_volume 250
+	DSx_bean_weight 17.80
+	DSx_volume 87
+	DSx_wsaw 0
+	enable_ampm 0
+	enable_commanumbers 0
+	enable_fahrenheit 0
+	enable_fluid_ounces 0
+	enable_negative_flow_charts 0
+	enable_rise 0
+	enable_spoken_prompts 0
+	espresso_chart_over 3
+	espresso_chart_under 10
+	espresso_count 756
+	espresso_decline_time 60
+	espresso_enjoyment 0
+	espresso_hold_time 60
+	espresso_max_time 180.0
+	espresso_notes {}
+	espresso_pressure 6.0
+	espresso_step_1 pressure
+	espresso_step_2 pressure
+	espresso_step_3 pressure
+	espresso_temperature 94
+	espresso_typical_volume 200
+	export_history_automatically_to_csv 1
+	fan_threshold 50
+	favcup_sequence 3
+	final_desired_shot_volume 36
+	final_desired_shot_volume_advanced 0
+	final_desired_shot_weight 0
+	final_desired_shot_weight_advanced 60
+	firmware_crc 3322195816
+	flight_mode_angle 30
+	flight_mode_enable 1
+	flow_decline_stop_volumetric 100
+	flow_hold_stop_volumetric 100
+	flow_profile_decline 1
+	flow_profile_decline_time 23
+	flow_profile_hold 1.8
+	flow_profile_hold_time 0
+	flow_profile_minimum_pressure 6
+	flow_profile_preinfusion 4.2
+	flow_profile_preinfusion_time 6
+	flow_rate_transition smooth
+	flow_rise_timeout 10
+	flying 0
+	ghc_is_installed 0
+	ghc_mode 0
+	goal_is_basket_temp 1
+	god_espresso_elapsed 0
+	god_espresso_filename {}
+	god_espresso_flow 0.0
+	god_espresso_flow_weight 0.0
+	god_espresso_name None
+	god_espresso_pressure 0.0
+	god_espresso_temperature_basket 88.0
+	god_espresso_weight 0.0
+	grinder_dose_weight 22.0
+	grinder_model HG1
+	grinder_setting 14.2
+	has_ghc 0
+	has_refractometer 0
+	has_scale 1
+	history_saved 0
+	insight_skin_show_embedded_profile 0
+	insight_skin_show_weight_activity_bar 0
+	language en
+	live_graph_smoothing_technique linear
+	logfile log.txt
+	machine_name {pretty decent}
+	max_ble_connect_attempts 10
+	max_steam_pressure 3
+	max_stop_at_weight 100
+	minimum_water_temperature 80
+	my_name {Peter Lada}
+	name {}
+	one_tap_mode 0
+	orientation landscape
+	original_profile_title {Classic Italian espresso}
+	preheat_temperature 90
+	preheat_volume 2.0
+	preinfusion_enabled 1
+	preinfusion_flow_rate 4.0
+	preinfusion_flow_rate2 4
+	preinfusion_guarantee 0
+	preinfusion_stop_flow_rate 1
+	preinfusion_stop_pressure 4.5
+	preinfusion_stop_timeout 30
+	preinfusion_stop_volumetric 100
+	preinfusion_temperature 92
+	preinfusion_time 60
+	preload_all_page_images 0
+	preset_counter 1
+	pressure_decline_stop_volumetric 100
+	pressure_end 5.0
+	pressure_hold_stop_volumetric 100
+	pressure_hold_time 10
+	pressure_rampup_stop_volumetric 100
+	pressure_rampup_timeout 20
+	profile {Classic Italian espresso}
+	profile_filename {Classic Italian espresso}
+	profile_graph_smoothing_technique quadratic
+	profile_has_changed 1
+	profile_language en
+	profile_notes {This will imitate the espresso style of the majority of cafes around the world. It uses a short preinfusion with a flat 9 bar pressure profile.}
+	profile_step {}
+	profile_title {}
+	profile_to_save {* Blooming Espresso Pressure}
+	refill_check_at_sleep 0
+	roast_date 11/12
+	roast_level Light
+	saver_brightness 0
+	scale_bluetooth_address CD:F9:6D:A5:D0:C7
+	scale_button_starts_espresso 0
+	scale_type atomaxskale
+	scentone {}
+	scheduler_enable 1
+	scheduler_sleep 30000
+	scheduler_wake 27600
+	screen_saver_change_interval 120
+	screen_saver_delay 60
+	screen_size_height 800
+	screen_size_width 1280
+	seconds_after_espresso_stop_to_continue_weighing 8
+	seconds_to_display_done_espresso 300
+	seconds_to_display_done_flush 300
+	seconds_to_display_done_hotwater 300
+	seconds_to_display_done_steam 300
+	settings_1_page settings_1
+	settings_profile_type settings_2a
+	shot_weight_percentage_stop 79
+	should_save_history 1
+	show_mixtemp_during_espresso 0
+	skale_bluetooth_address {}
+	skin Insight
+	sound_button_in 8
+	sound_button_out 11
+	speaking_pitch 1.0
+	speaking_rate 1.5
+	start_espresso_only_if_scale_connected 0
+	steam_flow 80
+	steam_highflow_start 70
+	steam_max_time 120
+	steam_over_pressure_count_trigger 10
+	steam_over_pressure_threshold 5
+	steam_over_temp_count_trigger 10
+	steam_over_temp_threshold 180
+	steam_temperature 160
+	steam_timeout 80
+	steaming_count 1105
+	stop_weight_before_seconds 2.8
+	stress_test 0
+	tank_desired_water_temperature 0
+	tare_only_on_espresso_start 1
+	temperature_target portafilter
+	timer_interval 100
+	water_count 7
+	water_level_sensor_max 50
+	water_max_vol 500
+	water_refill_point 4
+	water_speed_type flow
+	water_spout_off 1
+	water_temperature 86.0
+	water_time_max 60
+	water_volume 90.0
+	waterlevel_blink_start_offset 5
+	waterlevel_indicator_blink 1
+	waterlevel_indicator_blink_rate 1000
+	waterlevel_indicator_on 1
+	zoomed_y_axis_scale 8
+}
+machine {
+	advanced_shot_moveone_enabled 1
+	app_update_button_label {Up to date}
+	calibration_flow 1.1
+	calibration_pressure 1.07
+	calibration_temperature 0.0
+	cinstance 0
+	cmdstack {}
+	connect_time 1581016695
+	current_context espresso_3
+	current_frame_number 1
+	currently_erasing_firmware 0
+	currently_updating_firmware {}
+	cuuid 0000A002-0000-1000-8000-00805F9B34FB
+	cuuid_0A 0000A00A-0000-1000-8000-00805F9B34FB
+	cuuid_0B 0000A00B-0000-1000-8000-00805F9B34FB
+	cuuid_0C 0000A00C-0000-1000-8000-00805F9B34FB
+	cuuid_0D 0000A00D-0000-1000-8000-00805F9B34FB
+	cuuid_0E 0000A00E-0000-1000-8000-00805F9B34FB
+	cuuid_0F 0000A00F-0000-1000-8000-00805F9B34FB
+	cuuid_01 0000A001-0000-1000-8000-00805F9B34FB
+	cuuid_02 0000A002-0000-1000-8000-00805F9B34FB
+	cuuid_05 0000A005-0000-1000-8000-00805F9B34FB
+	cuuid_06 0000A006-0000-1000-8000-00805F9B34FB
+	cuuid_09 0000A009-0000-1000-8000-00805F9B34FB
+	cuuid_10 0000A010-0000-1000-8000-00805F9B34FB
+	cuuid_11 0000A011-0000-1000-8000-00805F9B34FB
+	cuuid_12 0000A012-0000-1000-8000-00805F9B34FB
+	cuuid_decentscale_read 0000FFF4-0000-1000-8000-00805F9B34FB
+	cuuid_decentscale_write 000036F5-0000-1000-8000-00805F9B34FB
+	cuuid_skale_EF80 0000EF80-0000-1000-8000-00805F9B34FB
+	cuuid_skale_EF81 0000EF81-0000-1000-8000-00805F9B34FB
+	cuuid_skale_EF82 0000EF82-0000-1000-8000-00805F9B34FB
+	decentscale_device_handle 0
+	device_handle ble1
+	factory_calibration_flow 1.1
+	factory_calibration_pressure 1.07
+	factory_calibration_temperature 0.0
+	fan_threshold 0
+	final_espresso_weight 0
+	final_water_weight 0.0
+	firmware_bytes_uploaded 0
+	firmware_crc 3322195816
+	firmware_update_button_label {Firmware Update}
+	firmware_update_size 0
+	flow 0.664306640625
+	flow_delta 0.05322265625
+	found 0
+	goal_flow 0.5
+	goal_pressure 0.0
+	goal_temperature 94.0
+	group_heater_wattage 500
+	GroupPressure 0
+	has_catering_kit 0
+	has_plumbing_kit 0
+	head_temperature 93.45347595214844
+	hertz 50
+	last_ping 1581018590
+	max_flowrate 6
+	max_flowrate_v11 8
+	max_pressure 12
+	max_temperature 100
+	maxpressure 12
+	min_temperature 80
+	mix_temperature 94.70703125
+	pour_volume 18.86376953125
+	preinfusion_volume 25.2357177734375
+	pressure 0.048583984375
+	pressure_delta 0.055908203125
+	previouscmd {ble write ble3 0000FF08-0000-1000-8000-00805F9B34FB 0 0000EF80-0000-1000-8000-00805F9B34FB 0 Ñ}
+	scale_autostop_triggered 0
+	scale_device_handle ble3
+	scale_sensor_weight 0.01
+	scale_weight 0.00
+	scale_weight_rate 0.00
+	scale_weight_rate_raw -0.05
+	scanning 0
+	serial_number 0
+	sinstance 12
+	state 2
+	steam_heater_temperature 159
+	steam_heater_wattage 1500
+	steam_max_temperature 170
+	steam_min_temperature 120
+	steam_time_max 120
+	steam_time_min 1
+	substate 0
+	suuid 0000A000-0000-1000-8000-00805F9B34FB
+	suuid_decentscale 0000FFF0-0000-1000-8000-00805F9B34FB
+	suuid_skale 0000FF08-0000-1000-8000-00805F9B34FB
+	tank_temperature_threshold 0
+	timer 0
+	version {FW_Sha 0 FW_Commits 0 FW_APIVersion 0 FW_Changes 0 FW_Release 0.0 BLE_Sha 7C24F200 BLE_Commits 12 BLE_APIVersion 4 BLE_Changes 6 BLE_Release 0.9}
+	voltage 110
+	volume 59.30852294921875
+	water_heater_wattage 1500
+	water_level 35.546875
+	water_level_full_point 40
+	water_level_mm_correction 5
+	water_level_percent 0
+	water_max_temperature 95
+	water_min_temperature 20
+	water_time_min 1
+	widget_current_profile_name_color_changed {#969eb1}
+	widget_current_profile_name_color_normal {#ff6b6b}
+	wrote 0
+}
+
